@@ -1,0 +1,75 @@
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.pyenv/
+.conda/
+
+# Python build / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+pip-wheel-metadata/
+
+# ============================================================
+# Jupyter
+# ============================================================
+.ipynb_checkpoints/
+
+# ============================================================
+# IDE / editor
+# ============================================================
+.vscode/
+.idea/
+
+# ============================================================
+# OS files
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================================
+# Project data / large files
+# ============================================================
+sec_filings/
+data/raw/
+data/interim/
+data/processed/
+data/cache/
+nicholas/
+src/archive/
+
+# Keep small reference CSVs in data/ if needed
+# If you want to track ticker-list CSVs, do NOT ignore data/*.csv globally.
+
+# ============================================================
+# Logs / metadata / temporary outputs
+# ============================================================
+*.log
+*.tmp
+*.bak
+
+# Optional large output files
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# ============================================================
+# Secrets
+# ============================================================
+.env
+.env.*
+!.env.example

@@ -1,0 +1,16 @@
+ticker,raw_ticker,company_name_final,exchange_source,listed_reference_sources,nasdaq_reference_name,nyse_reference_name,company_name_source,Security Name,in_nasdaq_listed_file,in_nyse_listed_file
+,,Nano Labs Ltd - Class A Ordinary Shares,NASDAQ,nasdaq-listed,Nano Labs Ltd - Class A Ordinary Shares,,Nano Labs Ltd,Nano Labs Ltd - Class A Ordinary Shares,True,False
+A,A,"Agilent Technologies, Inc. Common Stock",NYSE,nyse-listed,,"Agilent Technologies, Inc. Common Stock","Agilent Technologies, Inc. Common Stock","Agilent Technologies, Inc. Common Stock",False,True
+AA,AA,Alcoa Corporation Common Stock,NYSE,nyse-listed,,Alcoa Corporation Common Stock,Alcoa Corporation Common Stock,Alcoa Corporation Common Stock,False,True
+AACI,AACI,Armada Acquisition Corp. III - Class A Ordinary Share,NASDAQ,nasdaq-listed,Armada Acquisition Corp. III - Class A Ordinary Share,,Armada Acquisition Corp. III,Armada Acquisition Corp. III - Class A Ordinary Share,True,False
+AACO,AACO,Abony Acquisition Corp. I - Class A Ordinary Share,NASDAQ,nasdaq-listed,Abony Acquisition Corp. I - Class A Ordinary Share,,Abony Acquisition Corp. I,Abony Acquisition Corp. I - Class A Ordinary Share,True,False
+AAL,AAL,"American Airlines Group, Inc. - Common Stock",NASDAQ,nasdaq-listed,"American Airlines Group, Inc. - Common Stock",,"American Airlines Group, Inc.","American Airlines Group, Inc. - Common Stock",True,False
+AAMI,AAMI,Acadian Asset Management Inc. Common Stock,NYSE,nyse-listed,,Acadian Asset Management Inc. Common Stock,Acadian Asset Management Inc. Common Stock,Acadian Asset Management Inc. Common Stock,False,True
+AAOI,AAOI,"Applied Optoelectronics, Inc. - Common Stock",NASDAQ,nasdaq-listed,"Applied Optoelectronics, Inc. - Common Stock",,"Applied Optoelectronics, Inc.","Applied Optoelectronics, Inc. - Common Stock",True,False
+AAON,AAON,"AAON, Inc. - Common Stock",NASDAQ,nasdaq-listed,"AAON, Inc. - Common Stock",,"AAON, Inc.","AAON, Inc. - Common Stock",True,False
+AAP,AAP,Advance Auto Parts Inc.,NYSE,nyse-listed,,Advance Auto Parts Inc.,Advance Auto Parts Inc.,Advance Auto Parts Inc.,False,True
+AAPL,AAPL,Apple Inc. - Common Stock,NASDAQ,nasdaq-listed,Apple Inc. - Common Stock,,Apple Inc.,Apple Inc. - Common Stock,True,False
+AARD,AARD,"Aardvark Therapeutics, Inc. - Common Stock",NASDAQ,nasdaq-listed,"Aardvark Therapeutics, Inc. - Common Stock",,"Aardvark Therapeutics, Inc.","Aardvark Therapeutics, Inc. - Common Stock",True,False
+AAUC,AAUC,Allied Gold Corporation Common Shares,NYSE,nyse-listed,,Allied Gold Corporation Common Shares,Allied Gold Corporation Common Shares,Allied Gold Corporation Common Shares,False,True
+ABAT,ABAT,American Battery Technology Company - Common Stock,NASDAQ,nasdaq-listed,American Battery Technology Company - Common Stock,,American Battery Technology Company,American Battery Technology Company - Common Stock,True,False
+ABBV,ABBV,AbbVie Inc. Common Stock,NYSE,nyse-listed,,AbbVie Inc. Common Stock,AbbVie Inc. Common Stock,AbbVie Inc. Common Stock,False,True
