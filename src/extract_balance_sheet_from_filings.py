@@ -8,8 +8,8 @@ import pandas as pd
 # CONFIG
 # ============================================================
 
-FILINGS_DIR = Path("sec_filings/AAPL")
-OUTPUT_CSV = Path("AAPL_balance_sheet_from_filings_v5.csv")
+FILINGS_DIR = Path("sec_filings/AAL")
+OUTPUT_CSV = Path("AAL_balance_sheet_from_filings.csv")
 
 # IMPORTANT:
 # Apple's rendered statement tables usually show values in millions,
