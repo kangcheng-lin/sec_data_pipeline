@@ -1,0 +1,112 @@
+[
+  {
+    "ticker": "A",
+    "raw_ticker": "A",
+    "company_name_final": "Agilent Technologies, Inc. Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Agilent Technologies, Inc. Common Stock",
+    "status": "success",
+    "num_downloaded_records": 101,
+    "error": ""
+  },
+  {
+    "ticker": "AA",
+    "raw_ticker": "AA",
+    "company_name_final": "Alcoa Corporation Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Alcoa Corporation Common Stock",
+    "status": "success",
+    "num_downloaded_records": 39,
+    "error": ""
+  },
+  {
+    "ticker": "AACI",
+    "raw_ticker": "AACI",
+    "company_name_final": "Armada Acquisition Corp. III - Class A Ordinary Share",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Armada Acquisition Corp. III - Class A Ordinary Share",
+    "status": "success",
+    "num_downloaded_records": 2,
+    "error": ""
+  },
+  {
+    "ticker": "AACO",
+    "raw_ticker": "AACO",
+    "company_name_final": "Abony Acquisition Corp. I - Class A Ordinary Share",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Abony Acquisition Corp. I - Class A Ordinary Share",
+    "status": "success",
+    "num_downloaded_records": 2,
+    "error": ""
+  },
+  {
+    "ticker": "AAL",
+    "raw_ticker": "AAL",
+    "company_name_final": "American Airlines Group, Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "American Airlines Group, Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 100,
+    "error": ""
+  },
+  {
+    "ticker": "AAMI",
+    "raw_ticker": "AAMI",
+    "company_name_final": "Acadian Asset Management Inc. Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Acadian Asset Management Inc. Common Stock",
+    "status": "success",
+    "num_downloaded_records": 28,
+    "error": ""
+  },
+  {
+    "ticker": "AAOI",
+    "raw_ticker": "AAOI",
+    "company_name_final": "Applied Optoelectronics, Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Applied Optoelectronics, Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 51,
+    "error": ""
+  },
+  {
+    "ticker": "AAON",
+    "raw_ticker": "AAON",
+    "company_name_final": "AAON, Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "AAON, Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 101,
+    "error": ""
+  },
+  {
+    "ticker": "AAP",
+    "raw_ticker": "AAP",
+    "company_name_final": "Advance Auto Parts Inc.",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Advance Auto Parts Inc.",
+    "status": "success",
+    "num_downloaded_records": 98,
+    "error": ""
+  },
+  {
+    "ticker": "AAPL",
+    "raw_ticker": "AAPL",
+    "company_name_final": "Apple Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Apple Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 100,
+    "error": ""
+  }
+]

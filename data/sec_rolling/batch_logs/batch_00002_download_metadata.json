@@ -1,0 +1,112 @@
+[
+  {
+    "ticker": "AARD",
+    "raw_ticker": "AARD",
+    "company_name_final": "Aardvark Therapeutics, Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Aardvark Therapeutics, Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 6,
+    "error": ""
+  },
+  {
+    "ticker": "AAUC",
+    "raw_ticker": "AAUC",
+    "company_name_final": "Allied Gold Corporation Common Shares",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Allied Gold Corporation Common Shares",
+    "status": "success",
+    "num_downloaded_records": 0,
+    "error": ""
+  },
+  {
+    "ticker": "ABAT",
+    "raw_ticker": "ABAT",
+    "company_name_final": "American Battery Technology Company - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "American Battery Technology Company - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 50,
+    "error": ""
+  },
+  {
+    "ticker": "ABBV",
+    "raw_ticker": "ABBV",
+    "company_name_final": "AbbVie Inc. Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "AbbVie Inc. Common Stock",
+    "status": "success",
+    "num_downloaded_records": 54,
+    "error": ""
+  },
+  {
+    "ticker": "ABCB",
+    "raw_ticker": "ABCB",
+    "company_name_final": "Ameris Bancorp Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Ameris Bancorp Common Stock",
+    "status": "success",
+    "num_downloaded_records": 100,
+    "error": ""
+  },
+  {
+    "ticker": "ABCL",
+    "raw_ticker": "ABCL",
+    "company_name_final": "AbCellera Biologics Inc. - Common Shares",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "AbCellera Biologics Inc. - Common Shares",
+    "status": "success",
+    "num_downloaded_records": 22,
+    "error": ""
+  },
+  {
+    "ticker": "ABEO",
+    "raw_ticker": "ABEO",
+    "company_name_final": "Abeona Therapeutics Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Abeona Therapeutics Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 98,
+    "error": ""
+  },
+  {
+    "ticker": "ABG",
+    "raw_ticker": "ABG",
+    "company_name_final": "Asbury Automotive Group Inc Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Asbury Automotive Group Inc Common Stock",
+    "status": "success",
+    "num_downloaded_records": 97,
+    "error": ""
+  },
+  {
+    "ticker": "ABM",
+    "raw_ticker": "ABM",
+    "company_name_final": "ABM Industries Incorporated Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "ABM Industries Incorporated Common Stock",
+    "status": "success",
+    "num_downloaded_records": 101,
+    "error": ""
+  },
+  {
+    "ticker": "ABNB",
+    "raw_ticker": "ABNB",
+    "company_name_final": "Airbnb, Inc. - Class A Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Airbnb, Inc. - Class A Common Stock",
+    "status": "success",
+    "num_downloaded_records": 22,
+    "error": ""
+  }
+]

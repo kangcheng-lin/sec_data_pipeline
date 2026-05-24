@@ -43,6 +43,7 @@ desktop.ini
 # Project data / large files
 # ============================================================
 sec_filings/
+sec_filings_rolling_tmp/
 data/raw/
 data/interim/
 data/processed/
