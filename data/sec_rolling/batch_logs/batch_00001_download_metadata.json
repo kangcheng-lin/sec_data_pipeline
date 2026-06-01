@@ -7,7 +7,7 @@
     "listed_reference_sources": "nyse-listed",
     "security_name": "Agilent Technologies, Inc. Common Stock",
     "status": "success",
-    "num_downloaded_records": 101,
+    "num_downloaded_records": 1,
     "error": ""
   },
   {
@@ -18,7 +18,7 @@
     "listed_reference_sources": "nyse-listed",
     "security_name": "Alcoa Corporation Common Stock",
     "status": "success",
-    "num_downloaded_records": 39,
+    "num_downloaded_records": 1,
     "error": ""
   },
   {
@@ -29,7 +29,7 @@
     "listed_reference_sources": "nasdaq-listed",
     "security_name": "Armada Acquisition Corp. III - Class A Ordinary Share",
     "status": "success",
-    "num_downloaded_records": 2,
+    "num_downloaded_records": 1,
     "error": ""
   },
   {
@@ -40,7 +40,7 @@
     "listed_reference_sources": "nasdaq-listed",
     "security_name": "Abony Acquisition Corp. I - Class A Ordinary Share",
     "status": "success",
-    "num_downloaded_records": 2,
+    "num_downloaded_records": 1,
     "error": ""
   },
   {
@@ -51,7 +51,7 @@
     "listed_reference_sources": "nasdaq-listed",
     "security_name": "American Airlines Group, Inc. - Common Stock",
     "status": "success",
-    "num_downloaded_records": 100,
+    "num_downloaded_records": 1,
     "error": ""
   },
   {
@@ -62,7 +62,7 @@
     "listed_reference_sources": "nyse-listed",
     "security_name": "Acadian Asset Management Inc. Common Stock",
     "status": "success",
-    "num_downloaded_records": 28,
+    "num_downloaded_records": 1,
     "error": ""
   },
   {
@@ -73,7 +73,7 @@
     "listed_reference_sources": "nasdaq-listed",
     "security_name": "Applied Optoelectronics, Inc. - Common Stock",
     "status": "success",
-    "num_downloaded_records": 51,
+    "num_downloaded_records": 1,
     "error": ""
   },
   {
@@ -84,7 +84,7 @@
     "listed_reference_sources": "nasdaq-listed",
     "security_name": "AAON, Inc. - Common Stock",
     "status": "success",
-    "num_downloaded_records": 101,
+    "num_downloaded_records": 1,
     "error": ""
   },
   {
@@ -95,7 +95,7 @@
     "listed_reference_sources": "nyse-listed",
     "security_name": "Advance Auto Parts Inc.",
     "status": "success",
-    "num_downloaded_records": 98,
+    "num_downloaded_records": 2,
     "error": ""
   },
   {
@@ -106,7 +106,447 @@
     "listed_reference_sources": "nasdaq-listed",
     "security_name": "Apple Inc. - Common Stock",
     "status": "success",
-    "num_downloaded_records": 100,
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "AARD",
+    "raw_ticker": "AARD",
+    "company_name_final": "Aardvark Therapeutics, Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Aardvark Therapeutics, Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "AAUC",
+    "raw_ticker": "AAUC",
+    "company_name_final": "Allied Gold Corporation Common Shares",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Allied Gold Corporation Common Shares",
+    "status": "success",
+    "num_downloaded_records": 0,
+    "error": ""
+  },
+  {
+    "ticker": "ABAT",
+    "raw_ticker": "ABAT",
+    "company_name_final": "American Battery Technology Company - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "American Battery Technology Company - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ABBV",
+    "raw_ticker": "ABBV",
+    "company_name_final": "AbbVie Inc. Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "AbbVie Inc. Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ABCB",
+    "raw_ticker": "ABCB",
+    "company_name_final": "Ameris Bancorp Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Ameris Bancorp Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ABCL",
+    "raw_ticker": "ABCL",
+    "company_name_final": "AbCellera Biologics Inc. - Common Shares",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "AbCellera Biologics Inc. - Common Shares",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ABEO",
+    "raw_ticker": "ABEO",
+    "company_name_final": "Abeona Therapeutics Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Abeona Therapeutics Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ABG",
+    "raw_ticker": "ABG",
+    "company_name_final": "Asbury Automotive Group Inc Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Asbury Automotive Group Inc Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ABM",
+    "raw_ticker": "ABM",
+    "company_name_final": "ABM Industries Incorporated Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "ABM Industries Incorporated Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ABNB",
+    "raw_ticker": "ABNB",
+    "company_name_final": "Airbnb, Inc. - Class A Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Airbnb, Inc. - Class A Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ABOS",
+    "raw_ticker": "ABOS",
+    "company_name_final": "Acumen Pharmaceuticals, Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Acumen Pharmaceuticals, Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ABSI",
+    "raw_ticker": "ABSI",
+    "company_name_final": "Absci Corporation - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Absci Corporation - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ABT",
+    "raw_ticker": "ABT",
+    "company_name_final": "Abbott Laboratories Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Abbott Laboratories Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ABTC",
+    "raw_ticker": "ABTC",
+    "company_name_final": "American Bitcoin Corp. - Class A Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "American Bitcoin Corp. - Class A Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ABTS",
+    "raw_ticker": "ABTS",
+    "company_name_final": "Abits Group Inc - Ordinary Shares",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Abits Group Inc - Ordinary Shares",
+    "status": "success",
+    "num_downloaded_records": 0,
+    "error": ""
+  },
+  {
+    "ticker": "ABUS",
+    "raw_ticker": "ABUS",
+    "company_name_final": "Arbutus Biopharma Corporation - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Arbutus Biopharma Corporation - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ABVC",
+    "raw_ticker": "ABVC",
+    "company_name_final": "ABVC BioPharma, Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "ABVC BioPharma, Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ABX",
+    "raw_ticker": "ABX",
+    "company_name_final": "Abacus Global Management, Inc. Class A Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Abacus Global Management, Inc. Class A Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACA",
+    "raw_ticker": "ACA",
+    "company_name_final": "Arcosa, Inc. Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Arcosa, Inc. Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACAA",
+    "raw_ticker": "ACAA",
+    "company_name_final": "Averin Capital Acquisition Corp. - Class A Ordinary Shares",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Averin Capital Acquisition Corp. - Class A Ordinary Shares",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACAD",
+    "raw_ticker": "ACAD",
+    "company_name_final": "ACADIA Pharmaceuticals Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "ACADIA Pharmaceuticals Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACB",
+    "raw_ticker": "ACB",
+    "company_name_final": "Aurora Cannabis Inc. - Common Shares",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Aurora Cannabis Inc. - Common Shares",
+    "status": "success",
+    "num_downloaded_records": 0,
+    "error": ""
+  },
+  {
+    "ticker": "ACCL",
+    "raw_ticker": "ACCL",
+    "company_name_final": "Acco Group Holdings Limited - Class A Ordinary Shares",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Acco Group Holdings Limited - Class A Ordinary Shares",
+    "status": "success",
+    "num_downloaded_records": 0,
+    "error": ""
+  },
+  {
+    "ticker": "ACCO",
+    "raw_ticker": "ACCO",
+    "company_name_final": "Acco Brands Corporation Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Acco Brands Corporation Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACDC",
+    "raw_ticker": "ACDC",
+    "company_name_final": "ProFrac Holding Corp. - Class A Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "ProFrac Holding Corp. - Class A Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACEL",
+    "raw_ticker": "ACEL",
+    "company_name_final": "Accel Entertainment, Inc.",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Accel Entertainment, Inc.",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACET",
+    "raw_ticker": "ACET",
+    "company_name_final": "Adicet Bio, Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Adicet Bio, Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACFN",
+    "raw_ticker": "ACFN",
+    "company_name_final": "Acorn Energy, Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Acorn Energy, Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACGL",
+    "raw_ticker": "ACGL",
+    "company_name_final": "Arch Capital Group Ltd. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Arch Capital Group Ltd. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACH",
+    "raw_ticker": "ACH",
+    "company_name_final": "Accendra Health, Inc. Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Accendra Health, Inc. Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACHC",
+    "raw_ticker": "ACHC",
+    "company_name_final": "Acadia Healthcare Company, Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Acadia Healthcare Company, Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACHR",
+    "raw_ticker": "ACHR",
+    "company_name_final": "Archer Aviation Inc. Class A Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Archer Aviation Inc. Class A Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACHV",
+    "raw_ticker": "ACHV",
+    "company_name_final": "Achieve Life Sciences, Inc. - Common Shares",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Achieve Life Sciences, Inc. - Common Shares",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACI",
+    "raw_ticker": "ACI",
+    "company_name_final": "Albertsons Companies, Inc. Class A Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "Albertsons Companies, Inc. Class A Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACIC",
+    "raw_ticker": "ACIC",
+    "company_name_final": "American Coastal Insurance Corporation - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "American Coastal Insurance Corporation - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACIU",
+    "raw_ticker": "ACIU",
+    "company_name_final": "AC Immune SA - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "AC Immune SA - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 0,
+    "error": ""
+  },
+  {
+    "ticker": "ACIW",
+    "raw_ticker": "ACIW",
+    "company_name_final": "ACI Worldwide, Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "ACI Worldwide, Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACLS",
+    "raw_ticker": "ACLS",
+    "company_name_final": "Axcelis Technologies, Inc. - Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "Axcelis Technologies, Inc. - Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
+    "error": ""
+  },
+  {
+    "ticker": "ACM",
+    "raw_ticker": "ACM",
+    "company_name_final": "AECOM Common Stock",
+    "exchange_source": "NYSE",
+    "listed_reference_sources": "nyse-listed",
+    "security_name": "AECOM Common Stock",
+    "status": "success",
+    "num_downloaded_records": 2,
+    "error": ""
+  },
+  {
+    "ticker": "ACMR",
+    "raw_ticker": "ACMR",
+    "company_name_final": "ACM Research, Inc. - Class A Common Stock",
+    "exchange_source": "NASDAQ",
+    "listed_reference_sources": "nasdaq-listed",
+    "security_name": "ACM Research, Inc. - Class A Common Stock",
+    "status": "success",
+    "num_downloaded_records": 1,
     "error": ""
   }
 ]

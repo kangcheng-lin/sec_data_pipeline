@@ -144,6 +144,56 @@ def date_in_year_range(
     return ok(filing.get(date_basis))
 
 
+def date_in_date_range(
+    filing: dict,
+    start_date: str | None = None,
+    end_date: str | None = None,
+    date_basis: str = "report_date",
+) -> bool:
+    """
+    Filter filing by inclusive date range.
+
+    Example:
+      start_date="2026-01-01" keeps filings whose selected date is
+      on or after 2026-01-01.
+
+    date_basis options:
+      - "report_date": fiscal/report period date; best for financial statements
+      - "filing_date": SEC filing date
+      - "either": keep if either report_date or filing_date is in range
+    """
+    if date_basis not in {"report_date", "filing_date", "either"}:
+        raise ValueError("date_basis must be 'report_date', 'filing_date', or 'either'")
+
+    start_ts = pd.to_datetime(start_date, errors="coerce") if start_date else None
+    end_ts = pd.to_datetime(end_date, errors="coerce") if end_date else None
+
+    if start_ts is not None and pd.isna(start_ts):
+        raise ValueError(f"Invalid start_date: {start_date}")
+    if end_ts is not None and pd.isna(end_ts):
+        raise ValueError(f"Invalid end_date: {end_date}")
+
+    def ok(date_value: str | None) -> bool:
+        if not date_value:
+            return False
+
+        d = pd.to_datetime(date_value, errors="coerce")
+        if pd.isna(d):
+            return False
+
+        if start_ts is not None and d < start_ts:
+            return False
+        if end_ts is not None and d > end_ts:
+            return False
+
+        return True
+
+    if date_basis == "either":
+        return ok(filing.get("report_date")) or ok(filing.get("filing_date"))
+
+    return ok(filing.get(date_basis))
+
+
 def get_json(url: str) -> dict:
     resp = requests.get(url, headers=HEADERS, timeout=30)
     resp.raise_for_status()
@@ -665,6 +715,8 @@ def discover_company_filings_for_rolling(
     forms=("10-K", "10-Q"),
     start_year: int | None = 2001,
     end_year: int | None = None,
+    start_date: str | None = None,
+    end_date: str | None = None,
     date_basis: str = "report_date",
     max_reports: int | None = None,
     ticker_map: dict | None = None,
@@ -690,6 +742,17 @@ def discover_company_filings_for_rolling(
             )
         ]
 
+    if start_date is not None or end_date is not None:
+        filings = [
+            f for f in filings
+            if date_in_date_range(
+                f,
+                start_date=start_date,
+                end_date=end_date,
+                date_basis=date_basis,
+            )
+        ]
+
     if max_reports is not None:
         filings = filings[:max_reports]
 
@@ -702,6 +765,8 @@ def download_pending_company_reports(
     output_dir: str | Path = PROJECT_ROOT / "sec_filings_rolling_tmp",
     start_year: int | None = 2001,
     end_year: int | None = None,
+    start_date: str | None = None,
+    end_date: str | None = None,
     date_basis: str = "report_date",
     max_reports: int | None = None,
     download_txt_backup: bool = False,
@@ -723,6 +788,8 @@ def download_pending_company_reports(
         forms=forms,
         start_year=start_year,
         end_year=end_year,
+        start_date=start_date,
+        end_date=end_date,
         date_basis=date_basis,
         max_reports=max_reports,
         ticker_map=ticker_map,
@@ -839,6 +906,8 @@ def download_pending_reports_for_universe(
     output_dir: str | Path = PROJECT_ROOT / "sec_filings_rolling_tmp",
     start_year: int | None = 2001,
     end_year: int | None = None,
+    start_date: str | None = None,
+    end_date: str | None = None,
     date_basis: str = "report_date",
     max_reports_per_ticker: int | None = None,
     download_txt_backup: bool = False,
@@ -879,6 +948,8 @@ def download_pending_reports_for_universe(
                 output_dir=output_dir,
                 start_year=start_year,
                 end_year=end_year,
+                start_date=start_date,
+                end_date=end_date,
                 date_basis=date_basis,
                 max_reports=max_reports_per_ticker,
                 download_txt_backup=download_txt_backup,

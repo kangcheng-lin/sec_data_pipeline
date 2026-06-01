@@ -44,6 +44,7 @@ desktop.ini
 # ============================================================
 sec_filings/
 sec_filings_rolling_tmp/
+data/
 data/raw/
 data/interim/
 data/processed/
