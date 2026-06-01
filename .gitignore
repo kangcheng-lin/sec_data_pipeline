@@ -45,6 +45,8 @@ desktop.ini
 sec_filings/
 sec_filings_rolling_tmp/
 data/
+data/sec_rolling/
+data/sec_rolling/batch_logs/
 data/raw/
 data/interim/
 data/processed/
